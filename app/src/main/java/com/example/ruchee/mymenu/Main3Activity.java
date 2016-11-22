@@ -2,6 +2,7 @@ package com.example.ruchee.mymenu;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.widget.Toast;
 
 public class Main3Activity extends AppCompatActivity {
 
@@ -12,8 +13,8 @@ public class Main3Activity extends AppCompatActivity {
         
         // add comment to test updating master
         
-        Toast.makeText(MainActivity.this,
-                    Test Toast Message",
+        Toast.makeText(this,
+                    "Test Toast Message",
                     Toast.LENGTH_SHORT)
                     .show();
     }
