@@ -18,6 +18,7 @@
         <activity android:name=".FloatingContextMenu" />
         <activity android:name=".ContextualAction" />
         <activity android:name=".TestPopupMenu" />
+        <activity android:name=".Main2Activity"></activity>
     </application>
 
 </manifest>
