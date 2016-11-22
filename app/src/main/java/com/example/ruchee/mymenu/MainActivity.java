@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
         // action when clicks about us menu
         if(item.getItemId() == R.id.action_about_us) {
             Toast.makeText(MainActivity.this,
-                    "You have clicked on About us menu",
+                    "You have clicked on About us menu.",
                     Toast.LENGTH_SHORT)
                     .show();
         }
