@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/setting"
+        android:id="@+id/action_setting"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_about_us"
+        android:title="@string/about_us"
+        android:icon="@android:drawable/ic_dialog_info"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_floating_context_menu"
+        android:title="@string/floating_context_menu"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/contextual_action_mode"
+        android:title="@string/contextual_action_mode"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_popup_menu"
+        android:title="Popup Menu"
+        app:showAsAction="never" />
+
+</menu>

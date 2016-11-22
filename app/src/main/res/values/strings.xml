@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Menu</string>
+    <string name="setting">Setting</string>
+    <string name="about_us">About us</string>
+    <string name="floating_context_menu">Floating Context Menu</string>
+    <string name="contextual_action_mode">Contextual Action Mode</string>
+    <string name="mnu_share">Share</string>
+    <string name="mnu_edit">Edit</string>
+    <string name="mnu_delete">Delete</string>
+</resources>
