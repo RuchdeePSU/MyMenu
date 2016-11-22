@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
         // action when clicks setting menu
         if(item.getItemId() == R.id.action_setting) {
             Toast.makeText(MainActivity.this,
-                    "You have clicked on setting menu",
+                    "You have clicked on setting menu.",
                     Toast.LENGTH_SHORT)
                     .show();
         }
