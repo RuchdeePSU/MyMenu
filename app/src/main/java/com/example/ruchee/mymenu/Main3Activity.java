@@ -11,5 +11,10 @@ public class Main3Activity extends AppCompatActivity {
         setContentView(R.layout.activity_main3);
         
         // add comment to test updating master
+        
+        Toast.makeText(MainActivity.this,
+                    Test Toast Message",
+                    Toast.LENGTH_SHORT)
+                    .show();
     }
 }
