@@ -18,7 +18,8 @@
         <activity android:name=".FloatingContextMenu" />
         <activity android:name=".ContextualAction" />
         <activity android:name=".TestPopupMenu" />
-        <activity android:name=".Main2Activity"></activity>
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".Main3Activity"></activity>
     </application>
 
 </manifest>
